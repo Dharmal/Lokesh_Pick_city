@@ -1,4 +1,4 @@
-# Lokesh_Pick_city
+# Pick_City
 UI which allows the user to enter a letter and show No. of cities and city names
 
 Build and Deployment steps:
