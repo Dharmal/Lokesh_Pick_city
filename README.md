@@ -14,3 +14,4 @@ pip install --no-cache -r requirements.txt
 python city_pick.py
 
    Use the url https://localhost:8050 to access the application UI
+![pick_city](https://user-images.githubusercontent.com/48194838/128336753-8a094625-d5c9-4550-985b-c15ba7752f82.PNG)
